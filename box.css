@@ -1,0 +1,15 @@
+.element{
+    margin: 50px ;
+    border: 20px solid blue;
+    padding: 100px 50px 100px 80px;
+    background-color: aqua;
+   
+}
+.element h1{
+    border-color: black;
+    border: 20px solid blueviolet;
+    padding: 50px;
+    margin: 20px  ;
+    background-color: black;
+    color: white;
+}
